@@ -10,7 +10,7 @@ const Hero = () => {
             Hello,<br />
             <span className="flex flex-row items-start text-sm md:text-lg">I'm
               <span className="pl-1 text-2xl md:text-4xl text-primary font-serif font-bold">
-                Farell Reyhan Pradana
+                Gotthard Leo
               </span>
             </span>
           </p>
@@ -25,7 +25,7 @@ const Hero = () => {
       <div className="flex flex-col lg:flex-row">
         <img
           alt="Violet Evergarden"
-          className="max-w-xs md:max-w-sm w-auto h-auto hover:-translate-y-2 rounded-full border-1 border-primary shadow-lg hover:shadow-2xl object-contain transition-all duration-300"
+          className="max-w-xs lg:w-auto h-auto hover:-translate-y-2 rounded-full border-1 border-primary shadow-lg hover:shadow-2xl object-contain transition-all duration-300"
           src="violet_evergarden.png"
           height={300}
           width={200}
@@ -35,7 +35,7 @@ const Hero = () => {
           <a
             aria-label="Github"
             className="mx-auto my-1 hover:-translate-y-1 hover:text-primary transition-all duration-300"
-            href="#"
+            href="https://github.com/gotthardleo"
             target="_blank">
             <Icon name={"github"} />
           </a>

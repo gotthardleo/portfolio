@@ -36,7 +36,7 @@ const Projects = () => {
           PROJECTS
         </h2>
         <Carousel autoSlideInterval={5000}>
-          {DataProjects.map(({ releaseDate, lastModified, title, description, imgSrc, imgAlt, url }) => (
+          {DataProjects.map(({ releaseDate, lastModified, title, description, imgSrc, url }) => (
             <CarouselItem key={title}>
               <Project
                 key={title}
@@ -46,7 +46,6 @@ const Projects = () => {
                   title: title,
                   description: description,
                   imgSrc: imgSrc,
-                  imgAlt:imgAlt,
                   url: url
                 }}
               />

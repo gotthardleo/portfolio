@@ -57,7 +57,7 @@ const Header = () => {
               height={40}
             />
             <span className="hover:-translate-y-1 text-md text-dark-0 dark:text-light-0 hover:text-primary font-semibold transition-transform duration-300">
-              Farell Reyhan Pradana
+              Gotthard Leo
             </span>
           </a>
           <div className="flex justify-center items-center">

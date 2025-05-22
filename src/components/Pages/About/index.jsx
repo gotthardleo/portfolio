@@ -26,9 +26,9 @@ const About = () => {
         ABOUT ME
       </h2>
       <p className="mb-6 px-4 lg:p-0 text-dark-1 dark:text-light-1 text-sm sm:text-base text-pretty leading-relaxed">
-        Farell Reyhan Pradana, a passionate web developer dedicated to crafting user-friendly interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.
+        My name is Gotthard Leo, a passionate web developer dedicated to crafting user-friendly interfaces while constantly exploring the latest technologies. Committed to enhancing the digital experience through innovation and design.
       </p>
-      <button className="block px-6 py-3 mx-auto hover:-translate-y-1 text-sm text-primary hover:text-light-0 font-semibold hover:bg-primary border-2 border-primary rounded-md transition-all duration-300">
+      <button className="hidden px-6 py-3 mx-auto hover:-translate-y-1 text-sm text-primary hover:text-light-0 font-semibold hover:bg-primary border-2 border-primary rounded-md transition-all duration-300">
         DOWNLOAD CV
       </button>
       <div className="mt-12">
