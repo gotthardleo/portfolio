@@ -37,7 +37,7 @@ export default function RootLayout({ children }) {
       <body className={`${inter.variable} ${young_serif.variable} ${source_code_pro.variable} font-sans antialiased`}>
         <ThemeProvider
           attribute="class"
-          defaultTheme="system"
+          defaultTheme="light"
           enableSystem
           disableTransitionOnChange>
           {children}
