@@ -1,0 +1,31 @@
+
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: 'Inter';
+  --font-serif: 'Young Serif';
+  --font-mono: 'Source Code Pro';
+}
+
+@theme inline {
+  --color-light-0: var(--color-neutral-50);
+  --color-light-1: var(--color-neutral-300);
+  --color-dark-0: var(--color-neutral-950);
+  --color-dark-1: var(--color-neutral-800);
+  --color-primary: var(--color-amber-600);
+}
+
+html,
+body {
+  @apply bg-light-1 dark:bg-dark-1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-serif;
+}

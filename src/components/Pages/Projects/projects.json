@@ -1,0 +1,30 @@
+
+[
+  {
+      "releaseDate": "11-07-2021",
+      "lastModified": "04-01-2025",
+      "title": "Dopefolio",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum laudantium quaerat incidunt assumenda similique vitae beatae at quia, asperiores velit culpa id dicta exercitationem sapiente sequi. Cupiditate consequuntur est iure, expedita quae laboriosam? Fugit modi officia quae vitae corrupti, aliquid itaque doloribus laudantium molestiae fugiat sed pariatur expedita iste atque!",
+      "imgSrc": "thumbnail.jpg",
+      "imgAlt": "Thumbnail",
+      "url": "https://dopefolio.netlify.app/"
+    },
+    {
+      "releaseDate": "09-02-2023",
+      "lastModified": "13-01-2025",
+      "title": "Wilsonport",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum laudantium quaerat incidunt assumenda similique vitae beatae at quia, asperiores velit culpa id dicta exercitationem sapiente sequi. Cupiditate consequuntur est iure, expedita quae laboriosam? Fugit modi officia quae vitae corrupti, aliquid itaque doloribus laudantium molestiae fugiat sed pariatur expedita iste atque!",
+      "imgSrc": "thumbnail.jpg",
+      "imgAlt": "Thumbnail",
+      "url": "https://wilsonport.netlify.app/"
+    },
+    {
+      "releaseDate": "24-12-2024",
+      "lastModified": "24-02-2025",
+      "title": "Borcal Coffee Clone",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rerum laudantium quaerat incidunt assumenda similique vitae beatae at quia, asperiores velit culpa id dicta exercitationem sapiente sequi. Cupiditate consequuntur est iure, expedita quae laboriosam? Fugit modi officia quae vitae corrupti, aliquid itaque doloribus laudantium molestiae fugiat sed pariatur expedita iste atque!",
+      "imgSrc": "thumbnail.jpg",
+      "imgAlt": "Thumbnail",
+      "url": "https://borcalcoffeeclone.netlify.app/"
+    }
+]
